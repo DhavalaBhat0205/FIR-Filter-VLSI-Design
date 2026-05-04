@@ -1,8 +1,4 @@
-\---
 
-layout: default
-title: Low-Pass FIR Filter Design and Hardware Implementation
----
 
 # Low-Pass FIR Filter Design and Hardware Implementation
 
@@ -16,7 +12,7 @@ A complete DSP-to-RTL hardware design project for a low-pass FIR filter. The rep
 
 The design target is a low-pass FIR filter with transition region **0.20π to 0.23π rad/sample** and stopband attenuation of at least **80 dB**. A 100-tap design was first considered, but the final implementation uses **361 taps** so that the quantized hardware coefficients still satisfy the attenuation requirement.
 
-\---
+
 
 ## Key Results
 
