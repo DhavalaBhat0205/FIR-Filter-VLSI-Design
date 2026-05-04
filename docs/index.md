@@ -260,7 +260,6 @@ This project completes the full design path from floating-point FIR specificatio
 
 The project also compares direct-form, pipelined, and L = 3 parallel hardware architectures. The pipelined version is the best practical design choice for a balanced area-frequency-power tradeoff, while the L = 3 version is useful when throughput is the highest priority.
 
-\---
 
 ## Reproduce the Results
 
@@ -282,13 +281,6 @@ Run Vivado synthesis:
 source scripts/vivado\_synthesis.tcl
 ```
 
-Run Synopsys Design Compiler synthesis:
-
-```tcl
-dc\_shell -f scripts/synopsys\_dc\_synthesis.tcl
-```
-
-\---
 
 ## Final Submission Checklist
 
