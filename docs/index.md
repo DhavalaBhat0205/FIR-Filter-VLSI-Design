@@ -1,10 +1,9 @@
+---
+layout: default
+title: Low-Pass FIR Filter Design
+---
 
-
-# Low-Pass FIR Filter Design and Hardware Implementation
-
-
-
-##### **By Dhavala Bhat**
+**By Dhavala Bhat**
 
 
 
