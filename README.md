@@ -1,6 +1,6 @@
 # Low-Pass FIR Filter Design and Hardware Implementation
 
-**By Dhavala Bhat**
+**By: Dhavala Bhat**
 
 A complete DSP-to-RTL hardware design project for a low-pass FIR filter. The repository includes MATLAB/Python coefficient generation, fixed-point quantization, Verilog RTL, testbench files, synthesis scripts, frequency-response plots, hardware implementation results, and a final report.
 
