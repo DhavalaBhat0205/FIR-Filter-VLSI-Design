@@ -124,19 +124,19 @@ The datapath uses signed fixed-point arithmetic. Input samples pass through a de
 
 ## Quantized Q1.19 Response
 
-!\[Quantized Q1.19 response](figures/freq\_response\_quantized.png)
+!\[Quantized Q1.19 response](./figures/freq\_response\_quantized.png)
 
 ## Overlay Comparison
 
-!\[Original vs quantized overlay](figures/freq\_response\_overlay.png)
+!\[Original vs quantized overlay](./figures/freq\_response\_overlay.png)
 
 ## Passband Zoom
 
-!\[Passband zoom](figures/passband\_zoom.png)
+!\[Passband zoom](./figures/passband\_zoom.png)
 
 ## Stopband Zoom
 
-!\[Stopband zoom](figures/stopband\_zoom.png)
+!\[Stopband zoom](./figures/stopband\_zoom.png)
 
 ## Quantization Discussion
 
