@@ -120,7 +120,7 @@ The datapath uses signed fixed-point arithmetic. Input samples pass through a de
 
 ## Original Floating-Point Response
 
-!\[Original floating-point response](figures/freq\_response\_original.png)
+!\[Original floating-point response](./figures/freq\_response\_original.png)
 
 ## Quantized Q1.19 Response
 
