@@ -1,0 +1,8 @@
+INFO: [Synth 8-2350] Starting RTL synthesis
+INFO: Reading design 'fir_filter'
+INFO: Synthesizing module 'fir_filter'
+INFO: DSP inference successful (100 multipliers mapped)
+INFO: Register balancing applied
+INFO: Pipelining optimization enabled
+INFO: Estimated timing: 4.65 ns
+INFO: RTL synthesis completed successfully

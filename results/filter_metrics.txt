@@ -1,0 +1,8 @@
+Original passband ripple: 0.01341 dB
+Original stopband attenuation: 121.91 dB
+Q1.19 passband ripple: 0.01368 dB
+Q1.19 stopband attenuation: 91.37 dB
+Filter taps: 361
+Coefficient quantization: signed Q1.19, 20-bit
+Input/output format: signed Q1.15, 16-bit
+Accumulator width: 56-bit signed

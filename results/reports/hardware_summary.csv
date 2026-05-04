@@ -1,0 +1,4 @@
+Architecture,DSP Multipliers,Estimated FFs,Estimated LUTs,Target Clock,Estimated Fmax,Throughput,Estimated Dynamic Power
+Direct-form FIR,361,~6300,~18000-24000,100 MHz,~45-70 MHz,1 sample/cycle,~0.55-0.75 W
+Pipelined FIR,361,~6700,~20000-26000,100 MHz,~110-140 MHz,1 sample/cycle,~0.65-0.90 W
+L=3 Parallel FIR,1083,~20000,~60000-78000,100 MHz,~100-130 MHz,3 samples/cycle,~1.8-2.5 W
